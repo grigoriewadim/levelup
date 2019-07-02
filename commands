@@ -1,0 +1,1 @@
+docker run -i -t -p 8080:8888 de2e4cfd2805
